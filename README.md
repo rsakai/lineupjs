@@ -520,7 +520,7 @@ It can be used within standalone [R Shiny](https://shiny.rstudio.com/) apps or [
 ```R
 devtools::install_github("rstudio/crosstalk")
 devtools::install_github("lineupjs/lineup_htmlwidget")
-library(lineup)
+library(lineupjs)
 ```
 
 **Examples**
